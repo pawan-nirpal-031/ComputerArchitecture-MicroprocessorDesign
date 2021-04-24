@@ -1,2 +1,2 @@
-# Microprocessor Design using VHDL
->Basic Microprocessor Design in VHDL, Intended for educational purposes.
+# Computer Architecture And Microprocessor Design for computer science
+>Basic Microprocessor Design in HDLs, Verilog and VHDL
