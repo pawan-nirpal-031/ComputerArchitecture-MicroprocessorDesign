@@ -1,0 +1,12 @@
+-> syntax for compilation 
+
+Iverilog -o testbeanch_filename.vvp testbeanch_filename.v 
+vvp testbeanch_filename.vvp  
+
+-> now testbeanch_filename.vcd file should have been genrated now run gtkwave using 
+
+gtkwave 
+
+-> now select the testbeanch_filename.vcd file and select registers and wires to view the synthesized circuit
+
+
