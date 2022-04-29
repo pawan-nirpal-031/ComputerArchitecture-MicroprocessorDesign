@@ -1,3 +1,3 @@
 
-# Computer Architecture And Microprocessor Design for computer science
+# Computer Architecture And Microprocessor Design for Computer Science
 >Basic Microprocessor Design in HDLs, Verilog and VHDL
